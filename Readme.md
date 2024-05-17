@@ -33,9 +33,5 @@ Unicloud is a Node.js application serving as a cloud storage solution, facilitat
 **Configuration:**
 - Max file size for uploads: 10GB (adjustable).
 
-**Security:**
-- Validate and sanitize user input.
-- Implement authentication and authorization mechanisms.
-
 **Conclusion:**
 Unicloud offers a minimal yet effective solution for cloud storage needs, with intuitive endpoints and customizable configuration options.
